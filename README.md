@@ -1,11 +1,10 @@
- Executive Sales Performance tracker (Power BI)
+ EXECUTIVE SALES PERFORMANCE TRACKER
 
- 📌 Business Overview
+ 📌 BUSINESS OVERVIEW
 In retail and corporate distribution operations, understanding which sales representatives, products, and teams are hitting their targets is essential for talent retention and revenue optimization. This project delivers an executive reporting suite designed to monitor sales metrics, calculate operational margins, and benchmark individual workforce contributions.
 
 By introducing structured ranking tables alongside interactive filters, this dashboard allows sales directors to seamlessly identify high-performing assets and evaluate the structural health of sales teams.
 
----
 
 ## 🛠️ Tech Stack & Key Methodologies
 * **Business Intelligence Engine:** Microsoft Power BI Desktop
@@ -15,7 +14,7 @@ By introducing structured ranking tables alongside interactive filters, this das
 
 ---
 
-## 📊 High-Level Financial Performance Deployed
+ 📊 HIGH-LEVEL FINANCIAL PERFORMANCE DEPLOYED
 This dashboard summarizes critical baseline KPIs across enterprise performance metrics:
 * **Total Sales Volume ($9.35M):** Cumulative revenue achieved across all distribution networks.
 * **Total Profit ($5.07M):** Pure financial gain generated after deducting **$4.28M** in total operational costs.
@@ -25,14 +24,13 @@ This dashboard summarizes critical baseline KPIs across enterprise performance m
 ---
 
  <<<<<<< Key Operational Insights Discovered
-Top Revenue Producer:**Husein Augar** stands as the top-performing sales representative, securing $538,727 in total sales.
-Workforce Structure:** **Jucies and Delish** lead team organizational structures, tying for the highest headcount at 7 members each, closely followed by Yummies at 6.
-* **Flagship Product Performer:** **Smooth Sliky Salty** achieved peak product distribution, capturing highest overall sales volume and performing **27.89% higher** than the lowest-performing product line (*50% Dark Bites* at $375,228).
-* **Concentration Risk:** The top product line (*Smooth Sliky Salty*) accounts for **5.13%** of global enterprise sales.
+Top Revenue Producer:"Husein Augar" stands as the top-performing sales representative, securing $538,727 in total sales.
+Workforce Structure: "Jucies and Delish" lead team organizational structures, tying for the highest headcount at 7 members each, closely followed by Yummies at 6.
+Flagship Product Performer: "Smooth Sliky Salty" achieved peak product distribution, capturing highest overall sales volume and performing **27.89% higher** than the lowest-performing product line (50% Dark Bites at $375,228).
+* **Concentration Risk:** The top product line (*Smooth Sliky Salty*) accounts for 5.13% of global enterprise sales.
 
----
 
-## 📸 Dashboard Interface & Visualization
+DASHBOARD INTERFACE AND VISUALIZATION
 
  Core Features Deployed:
 1. Representative Leaderboard: A detailed matrix tracking individual sales totals mapped alongside employee profiles for direct visibility.
@@ -40,4 +38,6 @@ Workforce Structure:** **Jucies and Delish** lead team organizational structures
  3.  Multi-Tiered Slicer Panels: Dropdown selectors for Product, Geo, and Team parameters providing immediate filtering capabilites.
 
 ---
-🤝 **Connect with me:**[linkedIn]https://linkedin.com/in/AnalysewithZiori} **|Email;**Treasuremimi94@gmail.com
+AUTHOR;
+MIRACLE BEN
+[linkedIn]https://linkedin.com/in/AnalysewithZiori} |Email; Treasuremimi94@gmail.com
